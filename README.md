@@ -16,3 +16,8 @@ Promluvme si o tomto laucheru. Tento launcher je určen pro hry, které nepatř�
 Tento launcher funguje na základě vyhledání umístění souboru .exe, jeho pojmenování a následného spuštění.
 
 Pokud máte nějaké dotazy. Kontaktujte mě na adrese contact@1matyseek.fun
+
+
+# Download Link 
+
+https://www.mediafire.com/file/p05nbr45z5karmn/Game_Launcher.rar/file
