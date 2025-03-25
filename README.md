@@ -20,4 +20,4 @@ Pokud máte nějaké dotazy. Kontaktujte mě na adrese contact@1matyseek.fun
 
 # Download Link 
 
-https://www.mediafire.com/file/p05nbr45z5karmn/Game_Launcher.rar/file
+https://www.mediafire.com/file/wkhew4twsr5ccl2/Game_Launcher.zip/file
