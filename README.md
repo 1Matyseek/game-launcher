@@ -6,7 +6,7 @@ Let's talk about this laucher. This launcher is for games that don't belong to w
 
 This launcher works on the basis of find the location of the .exe file, name it and then run it.
 
-If you have any questions. Contact me at contyct@1matyseek.fun
+If you have any questions. Contact me at contact@1matyseek.fun
 
 
 # Game launcher - CZ
@@ -15,4 +15,4 @@ Promluvme si o tomto laucheru. Tento launcher je určen pro hry, které nepatř�
 
 Tento launcher funguje na základě vyhledání umístění souboru .exe, jeho pojmenování a následného spuštění.
 
-Pokud máte nějaké dotazy. Kontaktujte mě na adrese contyct@1matyseek.fun
+Pokud máte nějaké dotazy. Kontaktujte mě na adrese contact@1matyseek.fun
